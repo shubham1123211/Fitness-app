@@ -1,0 +1,32 @@
+
+# Compiled files
+target/
+build/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Maven wrapper
+# Keep mvnw, mvnw.cmd and .mvn/ committed
